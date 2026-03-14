@@ -1,0 +1,24 @@
+saya diberi kasus untuk membuat program untuk menghitung seluruh biaya pengiriman paket ucok dan butet. untuk latar belakangnya ucok dan butet adalah mahasiswa it del yang ingin mengirimkan beberapa barang ke kampung halaman masing masing. mereka berdua melihat papan brosur "Del-Express"  yang menawarkan pengiriman dengan lebih transparan dan perhitungan yang otomatis secara mereka adalah mahasiswa IT yang harusnya memanfaatkan semuanya secara IT. mereka mengunjungi Del-Express dan melihat papan yang berisi price list ongkos kirim per kilogram ke beberapa kota tujuan.
+kode kota / nama kota / ongkos per kg / keterangan
+1. mdn / medan / 8000 / dalam pulau
+2. blg / balige / 5000 / dalam pulau
+3. jkt / jakarta / 12000 / luar pulau
+4. sby / surabaya / 13000 / luar pulau
+dan ada promo menarik yang diberikan yaitu 
+syarat : berat pengiriman > 10 kg 
+promo yg didapat : diskon ongkir 10%
+syarat : pengiriman ke kota luar pulau 
+promo yang didapat : asuransi gratis
+
+berikan saya program dalam bahasa c, dan anda selayaknya sebagai junior developer yang mampu menjawab menggunakan vs code dalam windows dan command prompt. 
+
+berikan input 
+mdn
+5
+jkt
+3
+blg
+4
+end
+
+dan output yang saya harapkan adalah Struk Pembayaran yang terdiri dari: Kota tujuan, Berat paket Butet, Berat paket Ucok, Total berat, Total ongkos kirim, Informasi promo yang diperoleh,

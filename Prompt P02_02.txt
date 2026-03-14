@@ -1,0 +1,12 @@
+bantu saya menyelesaikan kasus yang membuat program yang mampu menentukan total stok hanya untuk kategori barang yang diminta. data stok barang disimpan dalam sebuah rak gudang yang tersusun rapi. adapun pola penyimpanannya adalah 
+1. jumlah total data (N)
+2. deret stok (s1,s2,...,sN)
+3. kode kategori barang
+
+22 pcs dari SD
+85 pcs dari Gula
+5 pcs dari Rok Pramuka
+120 pcs dari Minyak
+
+inti dari pemasalahannya adalah anda terlebih dahulu menjadi kodenyaa yang adalah polanya. kemudian anda membuat program dalam bahasa c sesuai yang disuruh. kode akan dijalankan di vscode dalam windows. buat kode dalam satu file dan code nya harus lengkap (full code). buatlah kamu berperan sebagai junior developer
+
